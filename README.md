@@ -22,7 +22,7 @@ $ apt upgrade -y
 $ pkg install git -y
 
 
-$ git clone 
+$ git clone https://github.com/tigerhackmalayalam/TigerVirus.git
 
 
 $ cd TigerVirus
