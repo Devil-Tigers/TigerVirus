@@ -111,7 +111,7 @@ sleep 1
 echo -e "\e[92mTviris1.txt File Downloaded Successfully"
 echo " "
 sleep 1
-echo -e "\e[96mNow Type :- cp Tvirus1 /sdcard "
+echo -e "\e[96mNow Type :- cp Tvirus1.txt /sdcard "
 echo -e "\e[96mTo COPY The Tvirus Text File To "
 echo -e "\e[96mYour INTERNAL STORAGE "
 echo -e "\e[96mCopy Paste The Text Several Times"
@@ -135,7 +135,7 @@ sleep 1
 echo -e "\e[92mTviris2.txt File Downloaded Successfully"
 echo " "
 sleep 1
-echo -e "\e[96mNow Type :- cp Tvirus2 /sdcard "
+echo -e "\e[96mNow Type :- cp Tvirus2.txt /sdcard "
 echo -e "\e[96mTo COPY The Tvirus Text File To "
 echo -e "\e[96mYour INTERNAL STORAGE "
 echo -e "\e[96mCopy Paste The Text Several Times"
@@ -160,7 +160,7 @@ sleep 1
 echo -e "\e[92mTviris3.txt File Downloaded Successfully"
 echo " "
 sleep 1
-echo -e "\e[96mNow Type :- cp Tvirus3 /sdcard "
+echo -e "\e[96mNow Type :- cp Tvirus3.txt /sdcard "
 echo -e "\e[96mTo COPY The Tvirus Text File To "
 echo -e "\e[96mYour INTERNAL STORAGE "
 echo -e "\e[96mCopy Paste The Text Several Times"
@@ -184,7 +184,7 @@ sleep 1
 echo -e "\e[92mTviris4.txt File Downloaded Successfully"
 echo " "
 sleep 1
-echo -e "\e[96mNow Type :- cp Tvirus4 /sdcard "
+echo -e "\e[96mNow Type :- cp Tvirus4.txt /sdcard "
 echo -e "\e[96mTo COPY The Tvirus Text File To "
 echo -e "\e[96mYour INTERNAL STORAGE "
 echo -e "\e[96mCopy Paste The Text Several Times"
@@ -208,7 +208,7 @@ sleep 1
 echo -e "\e[92mTviris5.txt File Downloaded Successfully"
 echo " "
 sleep 1
-echo -e "\e[96mNow Type :- cp Tvirus5 /sdcard "
+echo -e "\e[96mNow Type :- cp Tvirus5.txt /sdcard "
 echo -e "\e[96mTo COPY The Tvirus Text File To "
 echo -e "\e[96mYour INTERNAL STORAGE "
 echo -e "\e[96mCopy Paste The Text Several Times"
@@ -232,7 +232,7 @@ sleep 1
 echo -e "\e[92mTviris6.txt File Downloaded Successfully"
 echo " "
 sleep 1
-echo -e "\e[96mNow Type :- cp Tvirus6 /sdcard "
+echo -e "\e[96mNow Type :- cp Tvirus6.txt /sdcard "
 echo -e "\e[96mTo COPY The Tvirus Text File To "
 echo -e "\e[96mYour INTERNAL STORAGE "
 echo -e "\e[96mCopy Paste The Text Several Times"
@@ -256,7 +256,7 @@ sleep 1
 echo -e "\e[92mTviris7.txt File Downloaded Successfully"
 echo " "
 sleep 1
-echo -e "\e[96mNow Type :- cp Tvirus7 /sdcard "
+echo -e "\e[96mNow Type :- cp Tvirus7.txt /sdcard "
 echo -e "\e[96mTo COPY The Tvirus Text File To "
 echo -e "\e[96mYour INTERNAL STORAGE "
 echo -e "\e[96mCopy Paste The Text Several Times"
@@ -280,7 +280,7 @@ sleep 1
 echo -e "\e[92mTviris8.txt File Downloaded Successfully"
 echo " "
 sleep 1
-echo -e "\e[96mNow Type :- cp Tvirus8 /sdcard "
+echo -e "\e[96mNow Type :- cp Tvirus8.txt /sdcard "
 echo -e "\e[96mTo COPY The Tvirus Text File To "
 echo -e "\e[96mYour INTERNAL STORAGE "
 echo -e "\e[96mCopy Paste The Text Several Times"
@@ -304,7 +304,7 @@ sleep 1
 echo -e "\e[92mTviris9.txt File Downloaded Successfully"
 echo " "
 sleep 1
-echo -e "\e[96mNow Type :- cp Tvirus9 /sdcard "
+echo -e "\e[96mNow Type :- cp Tvirus9.txt /sdcard "
 echo -e "\e[96mTo COPY The Tvirus Text File To "
 echo -e "\e[96mYour INTERNAL STORAGE "
 echo -e "\e[96mCopy Paste The Text Several Times"
@@ -328,7 +328,7 @@ sleep 1
 echo -e "\e[92mTviris10.txt File Downloaded Successfully"
 echo " "
 sleep 1
-echo -e "\e[96mNow Type :- cp Tvirus10 /sdcard "
+echo -e "\e[96mNow Type :- cp Tvirus10.txt /sdcard "
 echo -e "\e[96mTo COPY The Tvirus Text File To "
 echo -e "\e[96mYour INTERNAL STORAGE "
 echo -e "\e[96mCopy Paste The Text Several Times"
@@ -389,7 +389,7 @@ sleep 1
 echo -e "\e[93mTviris11.txt File Downloaded Successfully"
 echo " "
 sleep 1
-echo -e "\e[96mNow Type :- cp Tvirus11 /sdcard "
+echo -e "\e[96mNow Type :- cp Tvirus11.txt /sdcard "
 echo -e "\e[96mTo COPY The Tvirus Text File To "
 echo -e "\e[96mYour INTERNAL STORAGE "
 echo -e "\e[96mCopy Paste The Text Several Times"
@@ -413,7 +413,7 @@ sleep 1
 echo -e "\e[93mTviris12.txt File Downloaded Successfully"
 echo " "
 sleep 1
-echo -e "\e[96mNow Type :- cp Tvirus12 /sdcard "
+echo -e "\e[96mNow Type :- cp Tvirus12.txt /sdcard "
 echo -e "\e[96mTo COPY The Tvirus Text File To "
 echo -e "\e[96mYour INTERNAL STORAGE "
 echo -e "\e[96mCopy Paste The Text Several Times"
@@ -438,7 +438,7 @@ sleep 1
 echo -e "\e[93mTviris13.txt File Downloaded Successfully"
 echo " "
 sleep 1
-echo -e "\e[96mNow Type :- cp Tvirus13 /sdcard "
+echo -e "\e[96mNow Type :- cp Tvirus13.txt /sdcard "
 echo -e "\e[96mTo COPY The Tvirus Text File To "
 echo -e "\e[96mYour INTERNAL STORAGE "
 echo -e "\e[96mCopy Paste The Text Several Times"
@@ -462,7 +462,7 @@ sleep 1
 echo -e "\e[93mTviris14.txt File Downloaded Successfully"
 echo " "
 sleep 1
-echo -e "\e[96mNow Type :- cp Tvirus14 /sdcard "
+echo -e "\e[96mNow Type :- cp Tvirus14.txt /sdcard "
 echo -e "\e[96mTo COPY The Tvirus Text File To "
 echo -e "\e[96mYour INTERNAL STORAGE "
 echo -e "\e[96mCopy Paste The Text Several Times"
@@ -486,7 +486,7 @@ sleep 1
 echo -e "\e[93mTviris15.txt File Downloaded Successfully"
 echo " "
 sleep 1
-echo -e "\e[96mNow Type :- cp Tvirus15 /sdcard "
+echo -e "\e[96mNow Type :- cp Tvirus15.txt /sdcard "
 echo -e "\e[96mTo COPY The Tvirus Text File To "
 echo -e "\e[96mYour INTERNAL STORAGE "
 echo -e "\e[96mCopy Paste The Text Several Times"
@@ -510,7 +510,7 @@ sleep 1
 echo -e "\e[93mTviris16.txt File Downloaded Successfully"
 echo " "
 sleep 1
-echo -e "\e[96mNow Type :- cp Tvirus16 /sdcard "
+echo -e "\e[96mNow Type :- cp Tvirus16.txt /sdcard "
 echo -e "\e[96mTo COPY The Tvirus Text File To "
 echo -e "\e[96mYour INTERNAL STORAGE "
 echo -e "\e[96mCopy Paste The Text Several Times"
@@ -534,7 +534,7 @@ sleep 1
 echo -e "\e[93mTviris17.txt File Downloaded Successfully"
 echo " "
 sleep 1
-echo -e "\e[96mNow Type :- cp Tvirus17 /sdcard "
+echo -e "\e[96mNow Type :- cp Tvirus17.txt /sdcard "
 echo -e "\e[96mTo COPY The Tvirus Text File To "
 echo -e "\e[96mYour INTERNAL STORAGE "
 echo -e "\e[96mCopy Paste The Text Several Times"
@@ -559,7 +559,7 @@ sleep 1
 echo -e "\e[93mTviris18.txt File Downloaded Successfully"
 echo " "
 sleep 1
-echo -e "\e[96mNow Type :- cp Tvirus18 /sdcard "
+echo -e "\e[96mNow Type :- cp Tvirus18.txt /sdcard "
 echo -e "\e[96mTo COPY The Tvirus Text File To "
 echo -e "\e[96mYour INTERNAL STORAGE "
 echo -e "\e[96mCopy Paste The Text Several Times"
@@ -584,7 +584,7 @@ sleep 1
 echo -e "\e[93mTviris19.txt File Downloaded Successfully"
 echo " "
 sleep 1
-echo -e "\e[96mNow Type :- cp Tvirus19 /sdcard "
+echo -e "\e[96mNow Type :- cp Tvirus19.txt /sdcard "
 echo -e "\e[96mTo COPY The Tvirus Text File To "
 echo -e "\e[96mYour INTERNAL STORAGE "
 echo -e "\e[96mCopy Paste The Text Several Times"
@@ -610,7 +610,7 @@ echo -e "\e[93mTviris20.txt File Downloaded Successfully"
 echo " "
 sleep 1
 
-echo -e "\e[96mNow Type :- cp Tvirus20 /sdcard "
+echo -e "\e[96mNow Type :- cp Tvirus20.txt /sdcard "
 echo -e "\e[96mTo COPY The Tvirus Text File To "
 echo -e "\e[96mYour INTERNAL STORAGE "
 echo -e "\e[96mCopy Paste The Text Several Times"
@@ -670,7 +670,7 @@ sleep 1
 echo -e "\e[35mTviris21.txt File Downloaded Successfully"
 echo " "
 sleep 1
-echo -e "\e[96mNow Type :- cp Tvirus21 /sdcard "
+echo -e "\e[96mNow Type :- cp Tvirus21.txt /sdcard "
 echo -e "\e[96mTo COPY The Tvirus Text File To "
 echo -e "\e[96mYour INTERNAL STORAGE "
 echo -e "\e[96mCopy Paste The Text Several Times"
@@ -695,7 +695,7 @@ sleep 1
 echo -e "\e[35mTviris22.txt File Downloaded Successfully"
 echo " "
 sleep 1
-echo -e "\e[96mNow Type :- cp Tvirus22 /sdcard "
+echo -e "\e[96mNow Type :- cp Tvirus22.txt /sdcard "
 echo -e "\e[96mTo COPY The Tvirus Text File To "
 echo -e "\e[96mYour INTERNAL STORAGE "
 echo -e "\e[96mCopy Paste The Text Several Times"
@@ -721,7 +721,7 @@ sleep 1
 echo -e "\e[35mTviris23.txt File Downloaded Successfully"
 echo " "
 sleep 1
-echo -e "\e[96mNow Type :- cp Tvirus23 /sdcard "
+echo -e "\e[96mNow Type :- cp Tvirus23.txt /sdcard "
 echo -e "\e[96mTo COPY The Tvirus Text File To "
 echo -e "\e[96mYour INTERNAL STORAGE "
 echo -e "\e[96mCopy Paste The Text Several Times"
@@ -746,7 +746,7 @@ sleep 1
 echo -e "\e[35mTviris24.txt File Downloaded Successfully"
 echo " "
 sleep 1
-echo -e "\e[96mNow Type :- cp Tvirus24 /sdcard "
+echo -e "\e[96mNow Type :- cp Tvirus24.txt /sdcard "
 echo -e "\e[96mTo COPY The Tvirus Text File To "
 echo -e "\e[96mYour INTERNAL STORAGE "
 echo -e "\e[96mCopy Paste The Text Several Times"
@@ -771,7 +771,7 @@ sleep 1
 echo -e "\e[35mTviris25.txt File Downloaded Successfully"
 echo " "
 sleep 1
-echo -e "\e[96mNow Type :- cp Tvirus25 /sdcard "
+echo -e "\e[96mNow Type :- cp Tvirus25.txt /sdcard "
 echo -e "\e[96mTo COPY The Tvirus Text File To "
 echo -e "\e[96mYour INTERNAL STORAGE "
 echo -e "\e[96mCopy Paste The Text Several Times"
@@ -796,7 +796,7 @@ sleep 1
 echo -e "\e[35mTviris26.txt File Downloaded Successfully"
 echo " "
 sleep 1
-echo -e "\e[96mNow Type :- cp Tvirus26 /sdcard "
+echo -e "\e[96mNow Type :- cp Tvirus26.txt /sdcard "
 echo -e "\e[96mTo COPY The Tvirus Text File To "
 echo -e "\e[96mYour INTERNAL STORAGE "
 echo -e "\e[96mCopy Paste The Text Several Times"
@@ -821,7 +821,7 @@ sleep 1
 echo -e "\e[35mTviris27.txt File Downloaded Successfully"
 echo " "
 sleep 1
-echo -e "\e[96mNow Type :- cp Tvirus27 /sdcard "
+echo -e "\e[96mNow Type :- cp Tvirus27.txt /sdcard "
 echo -e "\e[96mTo COPY The Tvirus Text File To "
 echo -e "\e[96mYour INTERNAL STORAGE "
 echo -e "\e[96mCopy Paste The Text Several Times"
@@ -846,7 +846,7 @@ sleep 1
 echo -e "\e[35mTviris28.txt File Downloaded Successfully"
 echo " "
 sleep 1
-echo -e "\e[96mNow Type :- cp Tvirus28 /sdcard "
+echo -e "\e[96mNow Type :- cp Tvirus28.txt /sdcard "
 echo -e "\e[96mTo COPY The Tvirus Text File To "
 echo -e "\e[96mYour INTERNAL STORAGE "
 echo -e "\e[96mCopy Paste The Text Several Times"
@@ -871,7 +871,7 @@ sleep 1
 echo -e "\e[35mTviris29.txt File Downloaded Successfully"
 echo " "
 sleep 1
-echo -e "\e[96mNow Type :- cp Tvirus29 /sdcard "
+echo -e "\e[96mNow Type :- cp Tvirus29.txt /sdcard "
 echo -e "\e[96mTo COPY The Tvirus Text File To "
 echo -e "\e[96mYour INTERNAL STORAGE "
 echo -e "\e[96mCopy Paste The Text Several Times"
@@ -897,7 +897,7 @@ echo -e "\e[35mTviris30.txt File Downloaded Successfully"
 echo " "
 sleep 1
 
-echo -e "\e[96mNow Type :- cp Tvirus30 /sdcard "
+echo -e "\e[96mNow Type :- cp Tvirus30.txt /sdcard "
 echo -e "\e[96mTo COPY The Tvirus Text File To "
 echo -e "\e[96mYour INTERNAL STORAGE "
 echo -e "\e[96mCopy Paste The Text Several Times"
