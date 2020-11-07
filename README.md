@@ -1,18 +1,19 @@
-#Tiger Virus 
+<h1>Tiger Virus </h1>
 
-####WELCOME TO TIGER VIRUS TOOL
+<h3>WELCOME TO TIGER VIRUS TOOL</h3>
 
 *Best Whatsapp Bombing MESSAGE making TOOL
 
-####Tool by TIGER HACK MALAYALAM 
+<h4>Tool by <strong>The Devil Tigers</strong></h4>
+
 
 *For more details see my youtube channel 
-*Click :- [Tiger Hack Malayalam](https://www.youtube.com/c/thmalayalam)
+*Click :- [The Devil Tigers](https://www.youtube.com/c/thmalayalam)
 
-###How to run this Tool "Tiger Virus"
+<h3>How to run this Tool "Tiger Virus"</h3>
 
-####Commands 
-####_________
+<h4>Commands</h4>
+<h4>_________</h4>
 $ apt update 
 
 
@@ -22,7 +23,7 @@ $ apt upgrade -y
 $ pkg install git -y
 
 
-$ git clone https://github.com/tigerhackmalayalam/TigerVirus.git
+$ git clone https://github.com/Devil-Tigers/TigerVirus.git
 
 
 $ cd TigerVirus
@@ -36,7 +37,7 @@ copy and past on whatsapp and sent
 
 *Enjoy*
 
-####Screenshots 
+<h4>Screenshots </h4>
 
 
 
@@ -44,7 +45,7 @@ copy and past on whatsapp and sent
 
 
 
-######4 options
+<h4>4 options</h4>
  
  
  
@@ -54,26 +55,20 @@ copy and past on whatsapp and sent
 *Tiger Power Bomb for (4GB+ Ram mobile phones)
 
 
-######10 Types of virus bomb messages in every option 
-######Total 30 virus bomb messages 
+<h5>10 Types of virus bomb messages in every option</h5> 
+<h5>Total 30 virus bomb messages </h5>
 
 
 
 
 
-######1 Tiger power message 
+<h5>1 Tiger power message </h5>
 
 
 
 
 
-######Testing 
-
-
-
-
-
-
+<h5>Testing</h5> 
 
 
 
@@ -81,9 +76,15 @@ copy and past on whatsapp and sent
 
 
 
-*script by Tiger Hack Malayalam 
-©Tiger_Hack_Malayalam 
 
 
 
-###FOR EDUCATIONAL PURPOSE ONLY
+
+
+
+*script by THE DEVIL TIGERS
+©[The Devil Tigers](https://www.youtube.com/c/thmalayalam)
+
+
+
+<h3>FOR EDUCATIONAL PURPOSE ONLY</h3>
