@@ -41,7 +41,7 @@ copy and past on whatsapp and sent
 
 
 
-
+![Capture 2020-11-07 20 29 57](https://user-images.githubusercontent.com/69100349/98444702-2571ce80-2139-11eb-82e3-50daac2c9e62.jpg)
 
 
 
