@@ -43,7 +43,7 @@ copy and past on whatsapp and sent
 
 ![Capture 2020-11-07 20 29 57](https://user-images.githubusercontent.com/69100349/98444702-2571ce80-2139-11eb-82e3-50daac2c9e62.jpg)
 
-
+![Capture 2020-11-07 20 34 39](https://user-images.githubusercontent.com/69100349/98444733-4df9c880-2139-11eb-8c83-a928e5c2d0b8.jpg)
 
 <h4>4 options</h4>
  
