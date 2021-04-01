@@ -2,7 +2,7 @@
 
 <h3>WELCOME TO TIGER VIRUS TOOL</h3>
 
-*Best Whatsapp Bombing MESSAGE making TOOL
+*Best Virus Making Tool To Make Virus Applications and Messeges For Whatsapp And Other Chat Applications
 
 <h4>Tool by <strong>The Devil Tigers</strong></h4>
 
@@ -40,7 +40,7 @@ copy and past on whatsapp and sent
 
 ![Screenshot_20210401-111946](https://user-images.githubusercontent.com/69100349/113250775-c591e500-92de-11eb-8442-ced8319793f4.png)
 
-![Screenshot_20210401-111946](https://user-images.githubusercontent.com/69100349/113250876-f4a85680-92de-11eb-9a34-1fa5d0c5557a.png)
+
 
 ![Screenshot_20210401-111957](https://user-images.githubusercontent.com/69100349/113250952-1570ac00-92df-11eb-846f-7e583aaa44a1.png)
 
